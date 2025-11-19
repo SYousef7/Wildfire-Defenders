@@ -1,5 +1,3 @@
-README
-
 Files
 
 index.html – main webpage
