@@ -15,7 +15,7 @@ How to Launch
 
     -Run app.py (this starts the Flask server)
 
-    -Open the local address the terminal gives you (usually http://127.0.0.1:5000)
+    -Open the local address the terminal gives you
 
     -Connect the Micro:bit from the webpage when prompted
 
