@@ -6,9 +6,8 @@ sketch.js – game logic + Micro:bit input handling
 
 Requirements
 
-   -You must have Flask installed (pip install flask)
-
-    -A Micro:bit connected via USB
+      -You must have Flask installed (pip install flask)   
+      -A Micro:bit connected via USB
 
 How to Launch
 
